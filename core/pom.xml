@@ -218,7 +218,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jvnet.localizer</groupId>
       <artifactId>localizer</artifactId>
-      <version>1.24</version>
+      <version>1.31</version>
     </dependency>
     <dependency>
       <groupId>antlr</groupId>
@@ -791,7 +791,7 @@ THE SOFTWARE.
             <manifest>
               <mainClass>hudson.Main</mainClass>
               <addClasspath>true</addClasspath>
-              <classpathPrefix />
+              <classpathPrefix/>
             </manifest>
           </archive>
         </configuration>

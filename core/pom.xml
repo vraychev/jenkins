@@ -532,7 +532,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.kohsuke</groupId>
       <artifactId>libpam4j</artifactId>
-      <version>1.8</version>
+      <version>1.10</version>
     </dependency>
     <dependency>
       <groupId>org.kohsuke</groupId>
@@ -791,7 +791,7 @@ THE SOFTWARE.
             <manifest>
               <mainClass>hudson.Main</mainClass>
               <addClasspath>true</addClasspath>
-              <classpathPrefix />
+              <classpathPrefix/>
             </manifest>
           </archive>
         </configuration>

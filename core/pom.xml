@@ -287,7 +287,7 @@ THE SOFTWARE.
     <dependency>
         <groupId>org.apache.commons</groupId>
         <artifactId>commons-compress</artifactId>
-        <version>1.10</version>
+        <version>1.26.0</version>
     </dependency>
     <dependency>
       <groupId>javax.mail</groupId>
@@ -791,7 +791,7 @@ THE SOFTWARE.
             <manifest>
               <mainClass>hudson.Main</mainClass>
               <addClasspath>true</addClasspath>
-              <classpathPrefix />
+              <classpathPrefix/>
             </manifest>
           </archive>
         </configuration>

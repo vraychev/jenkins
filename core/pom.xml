@@ -40,7 +40,7 @@ THE SOFTWARE.
   <properties>
     <staplerFork>true</staplerFork>
     <stapler.version>1.254</stapler.version>
-    <spring.version>2.5.6.SEC03</spring.version>
+    <spring.version>5.3.38</spring.version>
     <groovy.version>2.4.11</groovy.version>
     <!-- TODO: Actually many issues are being filtered by src/findbugs/findbugs-excludes.xml -->
     <findbugs.failOnError>true</findbugs.failOnError>
@@ -791,7 +791,7 @@ THE SOFTWARE.
             <manifest>
               <mainClass>hudson.Main</mainClass>
               <addClasspath>true</addClasspath>
-              <classpathPrefix />
+              <classpathPrefix/>
             </manifest>
           </archive>
         </configuration>
